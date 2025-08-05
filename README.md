@@ -8,9 +8,7 @@
 - 💻 I'm a **high school student (Class 11)** with a sharp focus on **JEE preparation** (PCM).
 - 🧠 I deeply enjoy **Machine Learning**, **C & Python programming**, and **Physics**—especially the motion & calculus kind.
 - 🛡️ Built my first project [Cyber Alert](https://github.com/PiyushRatan/CyberAlert) to **detect AI-generated scam messages**.
-- 🎤 I train in **soulful singing**—from Kishore Kumar to Qawwali.  
-- 🧘‍♂️ I practice **yoga**, balancing discipline and emotional growth.
-
+- 
 ---
 
 🔭 **What I’m Working On**
