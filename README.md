@@ -1,80 +1,165 @@
 <h1 align="center">Hey there, I'm Piyush Ratan 👋</h1>
 <p align="center">
-Class 12 Student | Builder | Web Development | Databases | CMS | Authentication
+Class 12 Student · AI/ML Builder · Full-Stack Developer · Systems-Oriented Learner
 </p>
 
 ---
 
-###  About Me
+## 🧠 About Me
 
--  I'm a **Class 12 student** focused on building real-world digital products.
--  I enjoy working with **web development, databases, CMS setups, authentication, and system design**.
--  I prefer **shipping actual projects** instead of only learning theory.
--  I like building things that are practical, structured, and useful.
--  I learn best by **building, testing, and improving**.
-
----
-
-###  What I’m Working On
-
--  Building web platforms with **database integration**
--  Working on **CMS-based systems** for easier content management
--  Adding **authentication, login, and admin control** to websites
--  Exploring better ways to make websites faster, cleaner, and more reliable
+- I'm **15 and in Class 12**, focused on building **real-world systems**, not just learning theory.
+- My primary interest lies in **AI/ML**, especially understanding systems from the **mathematical and architectural level**.
+- I work across **full-stack development**, but increasingly integrate **AI pipelines into practical applications**.
+- I prefer **shipping functional, structured, and useful products** over isolated experiments.
+- I learn by **building → testing → breaking → improving**.
 
 ---
 
-###  Currently Learning
+## 🚀 Projects
 
--  Full-stack development basics
--  Database design and backend workflows
--  Better CMS and authentication patterns
--  Stronger system design thinking
+### 🤖 AI / ML (Primary Focus)
 
----
-
-###  Ask Me About
-
--  How to build your **first real website**
--  Databases, CMS, auth, and admin systems
--  Turning small ideas into usable projects
--  Learning by doing instead of overthinking
+**NCERTGPT** *(in progress)*  
+RAG-based Q&A system built on NCERT Class 12 content  
+Pipeline: PDF → text extraction → chunking → embeddings → retrieval → NLP query layer  
+`Python · RAG · Vector DB · NLP · Embeddings`
 
 ---
 
-###  Reach Me
+**CyberAlert — Spam & Phishing Detector**  
+AI-powered system to classify and assess scam/phishing messages using prompt engineering  
+`Python · Flask · AI APIs · Prompt Engineering`  
+🔗 https://github.com/PiyushRatan/CyberAlert
+
+---
+
+**Regression Models — ML Fundamentals**  
+Implemented and compared:
+- Linear Regression
+- Decision Trees
+- Random Forest  
+
+Evaluation: MSE, MAE, R²  
+Currently studying:
+- OLS (β̂ = (XᵀX)⁻¹Xᵀy)
+- Gradient Descent (next step)
+
+`Python · scikit-learn · NumPy · Pandas · Matplotlib`
+
+---
+
+**Audio-to-Text Pipeline**  
+End-to-end speech-to-text system using AI APIs with backend processing  
+Focus: API handling, response structuring, system integration  
+`Python · Flask · API Integration`
+
+---
+
+### 🌐 Web Systems & Applications
+
+**ReadAble — Accessibility Tool**  
+OCR + Text-to-Speech + Translation system for improved readability  
+`JavaScript · APIs · HTML/CSS`  
+🔗 https://github.com/PiyushRatan/ReadAble
+
+---
+
+**PCM Syllabus Tracker**  
+Structured study tracker for Physics, Chemistry, Mathematics  
+🔗 https://github.com/PiyushRatan/PCM-Syllabus-Tracker
+
+---
+
+### 🌍 Deployed Systems
+
+| Project | Description |
+|--------|------------|
+| https://sdrpintercollege.com | Full-stack school website |
+| https://brothersproductionnoida.web.app | Business website |
+| https://vaultera.in | Project platform |
+| https://piyushratan.in | Portfolio |
+
+---
+
+## ⚙️ What I Work On
+
+- AI-powered applications and **RAG pipelines**
+- Full-stack systems with **database integration**
+- **Authentication, admin panels, and CMS architectures**
+- Backend workflows and **system design fundamentals**
+- Bridging **AI models with real-world usable interfaces**
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:**  
+`Python` `JavaScript` `C` `HTML` `CSS`
+
+**Web & Backend:**  
+`React` `Flask` `Firebase` `Supabase` `MySQL` `Render` `Vercel`
+
+**AI / ML:**  
+`scikit-learn` `Pandas` `NumPy` `Matplotlib` `Plotly`  
+`RAG Pipelines` `Vector Databases` `Prompt Engineering` `AI API Integration`
+
+**Tools:**  
+`Git` `GitHub` `Figma`
+
+---
+
+## 📚 Currently Learning
+
+- ML from foundations:  
+  OLS → Gradient Descent → Neural Networks  
+
+- **MLOps basics**  
+  (moving from notebooks → deployable systems)
+
+- **Backend scalability & system design**
+
+---
+
+## 💬 Ask Me About
+
+- Building **AI-powered web apps**
+- RAG pipelines and practical ML systems
+- Full-stack development (auth, DB, CMS, backend)
+- Turning ideas into **working products**
+
+---
+
+## 📫 Connect
 
 - Email: piyushratan.tech@gmail.com  
-- Instagram: [xpiyush_ratan](https://instagram.com/xpiyush_ratan)  
-- LinkedIn: [Piyush Ratan](https://linkedin.com/in/piyushratan)  
-- X: [@piyush__ratan](https://x.com/piyush__ratan)
+- LinkedIn: https://linkedin.com/in/piyushratan  
+- X: https://x.com/piyush__ratan  
+- Instagram: https://instagram.com/xpiyush_ratan  
 
 ---
 
 <p align="center">
-<i>"Build things that work. Keep improving them."</i>
+<i>"Build things that work. Then make them better."</i>
 </p>
 
 ---
 
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xpiyush_ratan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushratan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/piyush__ratan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushratan.tech@gmail.com) 
+## 📊 GitHub Stats
 
-### 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![](https://github-readme-stats.vercel.app/api?username=PiyushRatan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PiyushRatan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PiyushRatan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushRatan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushRatan&theme=dark&hide_border=false&layout=compact)
 
-### 🏆 GitHub Trophies
+![](https://nirzak-streak-stats.vercel.app/?user=PiyushRatan&theme=dark&hide_border=false)
+
+---
+
+## 🏆 Extras
+
 ![](https://github-profile-trophy.vercel.app/?username=PiyushRatan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PiyushRatan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
