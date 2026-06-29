@@ -20,7 +20,7 @@ My current focus is understanding machine learning from the math up: matrix alge
 
 ### AI / ML
 
-**Darpan360 — Chatbot-as-a-Service Platform** · [darpan360.in](https://darpan360.in) · [GitHub](https://github.com/PiyushRatan/OnlineChatbotIntegration)
+**Darpan360 — Chatbot-as-a-Service Platform** · [darpan360.in](https://darpan360.in) · [GitHub](https://github.com/PiyushRatan/Darpan360service)
 
 Users can create domain-specific AI bots and embed them into any third-party website via a sandboxed widget. Built with a multi-layer AI routing system:
 
